@@ -1,0 +1,8 @@
+To create mentor - https://studentmentor-yyfi.onrender.com/api/mentor/create(post request)
+To create mentee -  https://studentmentor-yyfi.onrender.com/api/mentee/create(post request)
+To view all mentors - https://studentmentor-yyfi.onrender.com/api/mentor/getallmentor(get request)
+To view all mentees - https://studentmentor-yyfi.onrender.com/api/mentees/getallmentees(get request)
+To find a mentor -  https://studentmentor-yyfi.onrender.com/api/mentor/find/:id(get request)
+To find a mentee - https://studentmentor-yyfi.onrender.com/api/mentee/find/:id(get request)
+To assign a mentor - https://studentmentor-yyfi.onrender.com/api/mentor/assign/:id(put request)
+To assign a mentee - https://studentmentor-yyfi.onrender.com/api/mentee/assign/:id(put request)
